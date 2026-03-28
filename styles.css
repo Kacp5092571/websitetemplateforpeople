@@ -4,6 +4,7 @@ body{
 }
 
 .thing{
+    background-color: rgb(12, 223, 255);
     background-image: linear-gradient(to top, powderblue, rgb(0, 153, 255), rgb(60, 57, 242));
     height: 500px;
     width: 500px;
